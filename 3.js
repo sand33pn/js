@@ -4,8 +4,6 @@
 What is the largest prime factor of the number 600851475143 ?*/
 
 
-// I am literally in love with my function to find prime numbers, probably the most effective function I've ever written ;)
- 
 var prime = function(number){                   //function to check whether the number is prime or not
     
     var limit = number;
